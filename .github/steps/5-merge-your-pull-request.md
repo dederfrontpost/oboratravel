@@ -1,17 +1,48 @@
-<!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+## ✈️🌍 OBORA TRAVEL AGENCY 🌍✈️
+### *"Imala Keessaniif Filannoo Amanamaa"*
 
-## Step 5: Merge your pull request
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
-_Nice work, friend :heart:! People will be reading your blog in no time!_
+# ✈️ OBORA TRAVEL AGENCY ✈️
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+### 🌍 BIYYA ALAA DEEMUU BARBAADDUU?
 
-### :keyboard: Activity: Merge your changes
+🇸🇦 **SAUDI ARABIA**
+🇶🇦 **QATAR**
+🇦🇪 **DUBAI / UAE**
+🇰🇼 **KUWAIT**
 
-1. Merge your changes from `my-pages` into `main`. If you created the pull request in step 2, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in [step 2](/.github/steps/2-configure-your-site.md).
-1. (optional) Delete the branch `my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+✅ Karaan Seera Qabeessa Ta'een  
+✅ Nageenyaafi Amanamummaadhaan  
+✅ Yeroo Gabaabaa Keessatti  
+
+### Tajaajila Keenya
+
+🟢 Gatii Madaalawaa
+
+🟢 Deeggarsa Visaa
+
+🟢 Tajaajila Saffisaa
+
+🟢 Odeeffannoo Balalii Guutuu
+
+🟢 Tajaajila Sa'aatii 24
+
+🟢 Dhaabbata Amanamaa fi Seera Qabeessa
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+### 📞 NU QUNNAMAA
+
+
+☎️ 🇸🇦 **+96654 470 5392**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🌟 **OBORA TRAVEL AGENCY**
+
+### "AMANAMUMMAA, SAFFISA FI TAJAAJILA QULQULLUU"
+
+✈️ **Imala Milkaa'aa fi Carraa Gaarii Isin Hawwina!** ✈️
+
+🌍🛫🌍🛫🌍🛫🌍🛫🌍
