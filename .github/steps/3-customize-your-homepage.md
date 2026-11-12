@@ -1,21 +1,48 @@
-<!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
+## ✈️🌍 OBORA TRAVEL AGENCY 🌍✈️
+### *"Imala Keessaniif Filannoo Amanamaa"*
 
-## Step 3: Customize your homepage
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
-_Nice work setting the theme! :sparkles:_
+# ✈️ OBORA TRAVEL AGENCY ✈️
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
+### 🌍 BIYYA ALAA DEEMUU BARBAADDUU?
 
-### :keyboard: Activity: Create your homepage
+🇸🇦 **SAUDI ARABIA**
+🇶🇦 **QATAR**
+🇦🇪 **DUBAI / UAE**
+🇰🇼 **KUWAIT**
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+✅ Karaan Seera Qabeessa Ta'een  
+✅ Nageenyaafi Amanamummaadhaan  
+✅ Yeroo Gabaabaa Keessatti  
+
+### Tajaajila Keenya
+
+🟢 Gatii Madaalawaa
+
+🟢 Deeggarsa Visaa
+
+🟢 Tajaajila Saffisaa
+
+🟢 Odeeffannoo Balalii Guutuu
+
+🟢 Tajaajila Sa'aatii 24
+
+🟢 Dhaabbata Amanamaa fi Seera Qabeessa
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+### 📞 NU QUNNAMAA
+
+
+☎️ 🇸🇦 **+96654 470 5392**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🌟 **OBORA TRAVEL AGENCY**
+
+### "AMANAMUMMAA, SAFFISA FI TAJAAJILA QULQULLUU"
+
+✈️ **Imala Milkaa'aa fi Carraa Gaarii Isin Hawwina!** ✈️
+
+🌍🛫🌍🛫🌍🛫🌍🛫🌍
