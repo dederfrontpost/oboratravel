@@ -1,0 +1,208 @@
+ public website or existing file was found for oboratravelagency.html_starter, as this appears to be a local filename or template placeholder.
+Below is a clean, responsive HTML5 starter template for Obora Travel Agency that you can copy and save into your file.
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obora Travel Agency | Explore Ethiopia & Beyond</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body {
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9fafb;
+    }
+    header {
+      background: #0f4c5c;
+      color: #fff;
+      padding: 1rem 5%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      font-size: 1.5rem;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-weight: 500;
+    }
+    .hero {
+      background: linear-gradient(rgba(15, 76, 92, 0.75), rgba(15, 76, 92, 0.75)), #1e6091;
+      color: #fff;
+      text-align: center;
+      padding: 5rem 1.5rem;
+    }
+    .hero h2 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: 0 auto 2rem;
+    }
+    .btn {
+      display: inline-block;
+      background: #e36414;
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+    }
+    .section-title {
+      text-align: center;
+      margin-bottom: 2rem;
+      color: #0f4c5c;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: #fff;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+    .card h3 {
+      margin-bottom: 0.5rem;
+      color: #0f4c5c;
+    }
+    .contact-form {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: 0 auto;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+    .form-group {
+      margin-bottom: 1rem;
+    }
+    .form-group label {
+      display: block;
+      margin-bottom: 0.3rem;
+      font-weight: 600;
+    }
+    .form-group input, .form-group textarea {
+      width: 100%;
+      padding: 0.6rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    footer {
+      background: #0f4c5c;
+      color: #fff;
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Obora Travel Agency</h1>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#destinations">Destinations</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Your Journey Starts With Obora</h2>
+    <p>Reliable flight bookings, custom tour packages, and seamless travel planning tailored to your needs.</p>
+    <a href="#contact" class="btn">Book Your Trip</a>
+  </section>
+
+  <section id="services" class="container">
+    <h2 class="section-title">Our Services</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Flight Reservations</h3>
+        <p>Domestic and international flight ticketing at competitive rates with flexible booking options.</p>
+      </div>
+      <div class="card">
+        <h3>Tour Packages</h3>
+        <p>Guided cultural, historical, and nature tours designed for solo travelers, families, and groups.</p>
+      </div>
+      <div class="card">
+        <h3>Hotel & Visa Support</h3>
+        <p>Hassle-free hotel accommodations and travel documentation assistance from start to finish.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="destinations" class="container">
+    <h2 class="section-title">Popular Destinations</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Lalibela & Historical North</h3>
+        <p>Discover ancient rock-hewn churches and centuries of rich Ethiopian heritage.</p>
+      </div>
+      <div class="card">
+        <h3>Bale Mountains & South</h3>
+        <p>Experience breathtaking highlands, endemic wildlife, and vibrant cultural traditions.</p>
+      </div>
+      <div class="card">
+        <h3>International Getaways</h3>
+        <p>Curated holiday and business trips to Dubai, Nairobi, Istanbul, and major global hubs.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="container">
+    <h2 class="section-title">Plan Your Next Trip</h2>
+    <form class="contact-form">
+      <div class="form-group">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+      </div>
+      <div class="form-group">
+        <label for="details">Trip Details</label>
+        <textarea id="details" rows="4" placeholder="Destination, travel dates, and number of travelers"></textarea>
+      </div>
+      <button type="submit" class="btn" style="border: none; cursor: pointer; width: 100%;">Send Inquiry</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Obora Travel Agency. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+Use code with caution.
+
+Key Features Included
+
+• Responsive Layout: Adapts automatically to mobile phones, tablets, and desktop screens.
+• Core Sections: Includes a navigation bar, hero banner, services grid, destination highlights, and a booking inquiry form.
+• Single-File Setup: Uses embedded CSS so you can open and preview it immediately in any browser without needing extra files.
+If you'd like to customize this starter template, let me know:
+• Specific services or tour packages Obora Travel Agency offers
+• Contact details (phone number, office location, social media links)
+• Preferred color scheme or language options (such as adding an Afaan Oromoo or Amharic toggle)
+I can update the HTML code to match your exact requirements.
